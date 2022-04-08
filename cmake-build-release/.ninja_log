@@ -1,0 +1,6 @@
+# ninja log v5
+1	413	1647482502883390284	CMakeFiles/A1.dir/starter_code/Node.cpp.o	1e5d71adfe7f38b9
+0	493	1647484533325056722	CMakeFiles/A1.dir/starter_code/main.cpp.o	625da44c63921392
+2	593	1647482503060059347	CMakeFiles/A1.dir/starter_code/PathPlanner.cpp.o	79b33e71d1b4bd5f
+493	554	1647484533385057544	A1	b5d6eaaf0407231c
+1	412	1647482502880056905	CMakeFiles/A1.dir/starter_code/NodeList.cpp.o	a42790def6675c93

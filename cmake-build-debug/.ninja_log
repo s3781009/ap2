@@ -1,0 +1,8 @@
+# ninja log v5
+1	268	1647035947235470871	CMakeFiles/A1.dir/starter_code/Node.cpp.o	c8b5af60ebbd0559
+1	405	1647035947372139187	CMakeFiles/A1.dir/starter_code/main.cpp.o	88aa6ee66c6b9373
+1	313	1647035947282138101	CMakeFiles/A1.dir/starter_code/PathPlanner.cpp.o	279d52efb45a486
+0	18	1647035971862435088	build.ninja	c14ea5bbb093629e
+405	460	1647035947425473164	A1	e1b8f2c4b2a7e348
+1	260	1647035947228804124	CMakeFiles/A1.dir/starter_code/NodeList.cpp.o	226dd8d2b9ff90c8
+0	3	0	clean	21b7c5eb2b7f1e33
